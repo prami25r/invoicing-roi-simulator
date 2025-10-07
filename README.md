@@ -53,5 +53,5 @@ This project will be a **single-page web application** with the following struct
 
 ---
 
-**Repository Link:** (https://github.com/<prami25r>/invoicing-roi-simulator)
+**Repository Link:** [(https://github.com/prami25r/invoicing-roi-simulator)](https://github.com/prami25r/invoicing-roi-simulator.git)
 
