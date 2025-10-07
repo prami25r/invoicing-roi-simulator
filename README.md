@@ -26,7 +26,7 @@ This project will be a **single-page web application** with the following struct
 | Backend | Node.js + Express |
 | Database | SQLite (or JSON for simplicity) |
 | PDF/Report | html-pdf or jsPDF |
-| Hosting | Localhost for demo / optional Vercel/Render deployment |
+| Hosting | Localhost for demo / optional Netlify/Render deployment |
 
 ---
 
